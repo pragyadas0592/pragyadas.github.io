@@ -13,13 +13,13 @@ Education
 ======
 * Bachelor of Technology (Hons) at LNM Institute of Information Technology, India
   * Electronics and Communication Engineering
-  <ul>{% https://www.lnmiit.ac.in/ %}</ul>
+
 * Masters In Vision and Robotics
 * Joint Degree In Association with 
   * Heriot Watt University, UK
   * University of Bourgogne, France
   * University of Girona, Spain
-  <ul>{% https://www.vibot.org/joint-msc-in-vision--robotics.html %}</ul>
+
 
 
 Work experience
