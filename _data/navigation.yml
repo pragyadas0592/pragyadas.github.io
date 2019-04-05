@@ -10,13 +10,13 @@ main:
     url: /projects/
     
   - title: "Experience"
-    url: /markdown/
+    url: /experience/
     
   - title: "Awards"
     url: /awards/
     
   - title: "Others"
-    url: /talks/      
+    url: /coact/      
     
   - title: "CV"
     url: /cv/
