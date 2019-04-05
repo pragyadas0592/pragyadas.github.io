@@ -21,3 +21,9 @@ author_profile: true
 
 * Mohit  Vaishnav, Ashwani Sharma and A.K.Tiwari “A noble computationally efficient motion compensation method based 	on pixel by pixel prediction ” accepted at 21st  Data compression Conf. (DCC), Snowbird, UT, Mar. 2011.
 [download](../files/paper5.pdf)
+
+### Survey Papers:
+
+* Mohit Vaishnav and K. R. Ramakrishnan, “3D Video Synopsis: Capturing to Transmission ”
+
+* Mohit Vaishnav, “Compression sensing: A brief overview ” accepted at IEEE Magazine, Potentials, 2012
