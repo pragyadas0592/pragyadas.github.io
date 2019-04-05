@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /teaching/
+permalink: /education/
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ author_profile: true
 
 * Masters In Vision and Robotics (__VIBOT__) [website](https://www.vibot.org/joint-msc-in-vision--robotics.html)
   * Joint Degree In Association with 
-    * Heriot Watt University, UK
-    * University of Bourgogne, France
-    * University of Girona, Spain
+    * Heriot Watt University, UK [link](https://www.hw.ac.uk/)
+    * University of Bourgogne, France [link](http://en.u-bourgogne.fr/)
+    * University of Girona, Spain [link](http://www.udg.edu/en/)
   
