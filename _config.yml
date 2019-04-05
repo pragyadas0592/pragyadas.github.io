@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Vaishnav Account"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Research Associate at ESIEE Paris with expertise in vision related aspects specially Medical Imaging"
   location         : "Paris"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.co.in/citations?user=jGOzdbgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mohit-vaishnav-48403920/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
