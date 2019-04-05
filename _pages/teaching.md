@@ -9,13 +9,13 @@ author_profile: true
 
 ## Education
 ======
-* Bachelor of Technology (Hons) at LNM Institute of Information Technology, India
+* Bachelor of Technology (Hons) at LNM Institute of Information Technology, India  [website](https://www.lnmiit.ac.in/)
   * Electronics and Communication Engineering
-  * [website](https://www.lnmiit.ac.in/)
+  
 
-* Masters In Vision and Robotics
+* Masters In Vision and Robotics [website](https://www.vibot.org/joint-msc-in-vision--robotics.html)
 * Joint Degree In Association with 
   * Heriot Watt University, UK
   * University of Bourgogne, France
   * University of Girona, Spain
-  * [website](https://www.vibot.org/joint-msc-in-vision--robotics.html)
+  
