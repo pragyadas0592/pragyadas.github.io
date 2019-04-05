@@ -13,9 +13,9 @@ author_profile: true
   * Electronics and Communication Engineering
   
 
-* Masters In Vision and Robotics [website](https://www.vibot.org/joint-msc-in-vision--robotics.html)
-* Joint Degree In Association with 
-  * Heriot Watt University, UK
-  * University of Bourgogne, France
-  * University of Girona, Spain
+* Masters In Vision and Robotics (__VIBOT__) [website](https://www.vibot.org/joint-msc-in-vision--robotics.html)
+ * Joint Degree In Association with 
+   * Heriot Watt University, UK
+   * University of Bourgogne, France
+   * University of Girona, Spain
   
