@@ -85,7 +85,7 @@ author:
   bio              : "PhD, Brown University, USA"
   location         : "Providence, USA"
   employer         : 
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=jGOzdbgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,6 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  lab              : "https://serre-lab.clps.brown.edu/person/mohit-vaishnav/"
   lastfm           :
   linkedin         : "mohit-vaishnav-48403920/"
   orcid            : ""
