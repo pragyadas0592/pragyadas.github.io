@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD, Brown University, USA"
   location         : "Providence, USA"
-  employer         : "https://serre-lab.clps.brown.edu/person/mohit-vaishnav/"
+  employer         : 
   pubmed           : ""
   googlescholar    : "https://scholar.google.co.in/citations?user=jGOzdbgAAAAJ&hl=en"
   email            :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lab              : "https://serre-lab.clps.brown.edu/person/mohit-vaishnav/"
   lastfm           :
   linkedin         : "mohit-vaishnav-48403920/"
   orcid            : ""
