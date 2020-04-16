@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mohit Vaishnav Account"
   avatar           : "profile.jpg"
-  bio              : "Research Associate at ESIEE Paris with expertise in vision related aspects specially Medical Imaging"
-  location         : "Paris"
-  employer         :
+  bio              : "PhD, Brown University, USA"
+  location         : "Providence, USA"
+  employer         : "https://serre-lab.clps.brown.edu/person/mohit-vaishnav/"
   pubmed           : ""
   googlescholar    : "https://scholar.google.co.in/citations?user=jGOzdbgAAAAJ&hl=en"
   email            :
