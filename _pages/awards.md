@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Contributed to Arctic Code Vault, GitHub 2020
-  * GitHub is partnering with the Long Now Foundation, the Internet Archive, the Software Heritage Foundation, Arctic World Archive, Microsoft Research, the Bodleian Library, and Stanford Libraries to ensure the long-term preservation of the world's open source software. We will protect this priceless knowledge by storing multiple copies, on an ongoing basis, across various data formats and locations, including a very-long-term archive designed to last at least 1,000 years.
+  * GitHub has partnered with the Long Now Foundation, the Internet Archive, the Software Heritage Foundation, Arctic World Archive, Microsoft Research, the Bodleian Library, and Stanford Libraries to ensure the long-term preservation of the world's open source software. We will protect this priceless knowledge by storing multiple copies, on an ongoing basis, across various data formats and locations, including a very-long-term archive designed to last at least 1,000 years.
 * PhD scholarship from ANR under ANITI project 2019-2022
   * The French government, in consultation with an international jury of experts, has selected ANITI to be one of four, highly visible interdisciplinary institutes spearheading AI research, education, and economic development in France. ANITI has targeted as strategic areas mobility and transportation, and robotics/cobotics for the industry of the future.
 * Charpak Masters Scholarship from French Government, 2017
