@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* Supervising 15 M1 students at Paul Sabastier University, France for the course \textit{Initiation to research work (project) (EMINC2B2)},  Jan-May'21
-* Teaching \textit{Basics of Introduction to Computer vision} at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
-* Teaching \textit{Visual Reasoning in Computer Vision} at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
+* Supervising 15 M1 students at Paul Sabastier University, France for the course *Initiation to research work (project) (EMINC2B2)*,  Jan-May'21
+* Teaching *[Basics of Introduction to Computer vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
+* Teaching *[Visual Reasoning in Computer Vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
 * Masters Thesis (Feb 2019 - July 2019):
   * ESIEE Paris
   * Advisor: Hugues Talbot [link](https://hugues-talbot.github.io)
