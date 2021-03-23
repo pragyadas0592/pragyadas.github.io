@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Leadership Position"
+title: "Leadership"
 permalink: /leadership/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
