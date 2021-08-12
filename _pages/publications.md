@@ -7,6 +7,10 @@ author_profile: true
 
 ### dblp [link](https://dblp.uni-trier.de/pers/hd/v/Vaishnav:Mohit)
 
+* Mohit Vaishnav, Remi Cadene, Andrea Alamia, Drew Linsley, Rufin VanRullen, Thomas Serre, “Understanding the computational demands underlying visual reasoning
+” Prepring version on ArXiv”
+[download](https://arxiv.org/abs/2108.03603)
+
 * Mohit Vaishnav, Dinesh Kumar Chobey and A.K. Tiwari, “Temporal 	stationarity based prediction method for lossless video coding 	” 9th Biannual Conference ICVGIP, 2014”
 [download](../files/paper1.pdf)
 
