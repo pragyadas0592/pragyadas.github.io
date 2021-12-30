@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* Reviewer NeurIPS 2020, CVPR 2021
+* Completed *[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)* course on *Coursera* 
 * Supervising 15 M1 students at Paul Sabastier University, France for the course *Initiation to research work (project) (EMINC2B2)*,  Jan-May'21
 * Teaching *[Basics of Introduction to Computer vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
 * Teaching *[Visual Reasoning in Computer Vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
