@@ -16,6 +16,7 @@ redirect_from:
 * Teaching *[Basics of Introduction to Computer vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
 * Teaching *[Visual Reasoning in Computer Vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
 * Attended 5 days *Computational Psychiatry Course 2020* organized by the Translational Neuromodeling Unit, University of Zurich & ETH Zurich, Sept'20
+* Reviewer IEEE Transaction on Evolutionary Computation 2012
 * Masters Thesis (Feb 2019 - July 2019):
   * ESIEE Paris
   * Advisor: Hugues Talbot [link](https://hugues-talbot.github.io)
