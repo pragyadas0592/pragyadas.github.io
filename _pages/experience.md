@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* Reviewer NeurIPS 2020, CVPR 2021
-* Attended *[Reinforcement Learning Virtual School](https://rlvs.aniti.fr/)* 
-* Completed *[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)* course on *Coursera* 
+* Reviewer NeurIPS 2021, CVPR 2022, ICML 2022, ECCV 2022
+* Attended *[Reinforcement Learning Virtual School](https://rlvs.aniti.fr/)*, organized by *ANITI*, 2021 
+* Completed *[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)* course on *Coursera*, 2021 
 * Supervising 15 M1 students at Paul Sabastier University, France for the course *Initiation to research work (project) (EMINC2B2)*,  Jan-May'21
-* Teaching *[Basics of Introduction to Computer vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
-* Teaching *[Visual Reasoning in Computer Vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May'21
+* Teaching *[Basics of Introduction to Computer vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May 2021, 2022
+* Teaching *[Visual Reasoning in Computer Vision](https://rufinv.github.io/Intro2AI-advanced-class/)* at Federal University of Toulouse Midi-Pyrénées, France, Mar-May 2021, 2022
 * Attended 5 days *Computational Psychiatry Course 2020* organized by the Translational Neuromodeling Unit, University of Zurich & ETH Zurich, Sept'20
 * Reviewer IEEE Transaction on Evolutionary Computation 2012
 * Masters Thesis (Feb 2019 - July 2019):
