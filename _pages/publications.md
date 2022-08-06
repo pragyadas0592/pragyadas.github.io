@@ -14,7 +14,7 @@ author_profile: true
 * Aimen Zerroug, Mohit Vaishnav, Julien Colin, Sebastian Musslick, Thomas Serre. ``A Benchmark for Compositional Visual Reasoning.'' *ArXiv*, abs/2206.05379 (2022)
 
 
-* Mohit Vaishnav, Dinesh Kumar Chobey and A.K. Tiwari, “*Temporal 	stationarity based prediction method for lossless video coding*” 9th Biannual Conference ICVGIP, 2014”
+* Mohit Vaishnav, Dinesh Kumar Chobey and A.K. Tiwari, “*Temporal 	stationarity based prediction method for lossless video coding*” $$9^{th}$$ Biannual Conference ICVGIP, 2014”
 
 
 * Mohit Vaishnav, Binny Tewani and A.K. Tiwari, “*Residue 	 coding technique for video compression*”, 24th 	IEEE Data Compression Conference Mar., 2014.
