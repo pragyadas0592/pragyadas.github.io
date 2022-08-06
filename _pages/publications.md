@@ -7,12 +7,12 @@ author_profile: true
 
 ### dblp [link](https://dblp.uni-trier.de/pers/hd/v/Vaishnav:Mohit)
 
-* Mohit Vaishnav, Remi Cadene, Andrea Alamia, Drew Linsley, Rufin VanRullen, Thomas Serre; Understanding the Computational Demands Underlying Visual Reasoning.'' *Neural Computation* 2022; 34 (5): 1075–1099. doi: [https://doi.org/10.1162/neco_a_01485](https://doi.org/10.1162/neco_a_01485)
 
 * Mohit Vaishnav, Thomas Serre. ``MAREO: Memory- and Attention- based visual REasOning.'' *ArXiv*, abs/2206.04928, (2022)
-    
+
 * Aimen Zerroug, Mohit Vaishnav, Julien Colin, Sebastian Musslick, Thomas Serre. ``A Benchmark for Compositional Visual Reasoning.'' *ArXiv*, abs/2206.05379 (2022)
 
+* Mohit Vaishnav, Remi Cadene, Andrea Alamia, Drew Linsley, Rufin VanRullen, Thomas Serre; Understanding the Computational Demands Underlying Visual Reasoning.'' *Neural Computation* 2022; 34 (5): 1075–1099. doi: [https://doi.org/10.1162/neco_a_01485](https://doi.org/10.1162/neco_a_01485)
 
 * Mohit Vaishnav, Dinesh Kumar Chobey and A.K. Tiwari, “*Temporal 	stationarity based prediction method for lossless video coding*” $$9^{th}$$ Biannual Conference ICVGIP, 2014”
 
