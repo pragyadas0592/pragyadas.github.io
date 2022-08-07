@@ -28,7 +28,7 @@ redirect_from:
 * Masters Thesis (Feb 2019 - July 2019):
   * ESIEE Paris
   * Advisor: [Prof. Hugues Talbot](https://hugues-talbot.github.io)
-  * Developed a prototype for a Dental AI startup [WeDiagnostiX](https://wediagnostix.com/en/home) for the classification / understanding of maxillary structures from X-ray imaging using Deep learning.
+  * Developed the first working prototype for a Dental AI startup [WeDiagnostiX](https://wediagnostix.com/en/home) for the classification / understanding of maxillary structures from X-ray imaging using Deep learning.
 * Summer Internship (July 2018 - Aug 2018): 
   * Quelia Systems and ESIEE Paris 
   * Advisor: Hugues Talbot
