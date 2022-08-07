@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Education
-======
-
 * Doctor of Philosophy (2019-2022)
   * [Artificial and Natural Intelligence Toulouse Institute](https://aniti.univ-toulouse.fr/) (*ANITI*), France and [Brown University](https://serre-lab.clps.brown.edu/), USA  
   * __Supervisor__: Thomas Serre (Professor, Brown University, USA)
