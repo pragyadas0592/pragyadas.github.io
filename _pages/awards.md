@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="right">
+  <img src="../images/Brown_logo.png" width="135" />
+  <img src="../images/logo_ANITI_2.jpeg" width="200" /> 
+</p>
+
 * Ranked #5 in Kaggle Half Earth Challenge *Herbarium* 2022
 * Contributed to Arctic Code Vault, GitHub 2020
   * GitHub has partnered with the Long Now Foundation, the Internet Archive, the Software Heritage Foundation, Arctic World Archive, Microsoft Research, the Bodleian Library, and Stanford Libraries to ensure the long-term preservation of the world's open source software. We will protect this priceless knowledge by storing multiple copies, on an ongoing basis, across various data formats and locations, including a very-long-term archive designed to last at least 1,000 years.
