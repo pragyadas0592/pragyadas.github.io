@@ -10,7 +10,7 @@ author_profile: true
 ## Education
 ======
 
-* PhD at Brown University, USA  [website](https://serre-lab.clps.brown.edu/person/mohit-vaishnav/)
+* PhD at ANITI, France and Brown University, USA  [website](https://serre-lab.clps.brown.edu/person/mohit-vaishnav/)
   * Brain Inspired Artificial Intelligence Modelling
 
 * Masters In Vision and Robotics (__VIBOT__) [website](https://www.vibot.org/joint-msc-in-vision--robotics.html)
