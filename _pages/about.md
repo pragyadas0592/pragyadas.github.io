@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p float="center">
+<p align="right">
   <img src="../images/Brown_logo.png" width="135" />
   <img src="../images/logo_ANITI_2.jpeg" width="200" /> 
 </p>
