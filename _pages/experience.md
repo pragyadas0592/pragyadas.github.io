@@ -24,7 +24,7 @@ redirect_from:
 
 ## Work
 
-* Reviewer NeurIPS 2021, CVPR 2022, ICML 2022, ECCV 2022
+* Reviewer IEEE Transactions on Evolutionary Computation 2012, NeurIPS 2021, CVPR 2022, ICML 2022, ECCV 2022
 * Masters Thesis at ESIEE Paris (Feb 2019 - July 2019):
   * Advisor: [Prof. Hugues Talbot](https://hugues-talbot.github.io)
   * Developed the first working prototype for a Dental AI startup [WeDiagnostiX](https://wediagnostix.com/en/home) for the classification / understanding of maxillary structures from X-ray imaging using Deep learning.
@@ -35,7 +35,6 @@ redirect_from:
 * Offshore working with Suspect Technologies, a startup by MIT Camera Culture Group member.
 * [Kumbhathon Challenge 2015](https://www.kumbha.org/)
   * Contributed in innovating Kumbha festival by MIT USA and worked on “Abnormal Motion Detection” 
-* Reviewer IEEE Transaction on Evolutionary Computation 2012
 * Indian Institute of Science, Bangalore, India 
   * Advisor: [Prof. K R Ramakrishnan](http://iiscprofiles.irins.org/profile/3742)
   * Project: 3D Video Synopsis: Capturing to Transmission
