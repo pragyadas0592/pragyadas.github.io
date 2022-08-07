@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<p align="right">
+  <img src="../images/Brown_logo.png" width="135" />
+  <img src="../images/logo_ANITI_2.jpeg" width="200" /> 
+</p>
 
 * Organized “Computational Probability and Monte Carlo Methods”, Talk by Distinguished
 Prof.Karmeshu, Feb. 9, 2013.
