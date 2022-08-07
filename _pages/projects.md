@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Masters Level:
+## Masters Level:
 
   * Master's Thesis: Propose methods for the classification / understanding of maxillary structures from X-ray imaging using Deep learning.
   * Representing Heriot Watt University Robotics Team at European Robotics League Competition using Tiago Robot.
