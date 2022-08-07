@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Leadership Position
-======
 
-* Elected as Student representative for Artificial and Natural Intelligence Toulouse Institute (*ANITI*), France, 2020-present
+* Elected as Student representative for Artificial and Natural Intelligence Toulouse Institute (*ANITI*), France, 2020-2022
 * Founder and Membership head, *IEEE Student branch*, LNMIIT, India, 2012
 * Founder and Organizer, Technical Festival *Plinth*, LNMIIT, India, 2012 
 * Elected Member of Senate, *Science and Tech. Council*, LNMIIT, India, 2013 
