@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<p float="middle">
+  <img src="../images/Brown_logo.png" width="135" />
+  <img src="../images/logo_ANITI_2.jpeg" width="200" /> 
+</p>
+
 This is Mohit Vaishnav's webpage home.
 
 `You can either make things happen, or let things happen. I prefer the first one. 
