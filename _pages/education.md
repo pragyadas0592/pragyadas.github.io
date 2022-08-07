@@ -10,8 +10,10 @@ author_profile: true
 ## Education
 ======
 
-* PhD at ANITI, France and Brown University, USA  [website](https://serre-lab.clps.brown.edu/person/mohit-vaishnav/)
-  * Brain Inspired Artificial Intelligence Modelling
+* Doctor of Philosophy
+  * Artificial and Natural Intelligence Toulouse Institute (*ANITI*), France and Brown University, USA  [website](https://serre-lab.clps.brown.edu/person/mohit-vaishnav/)
+  * __Supervisor__: Thomas Serre (Professor, Brown University, USA)
+  * __Topic__: Learning where to attend and what to remember 
 
 * Masters In Vision and Robotics (__VIBOT__) [website](https://www.vibot.org/joint-msc-in-vision--robotics.html)
   * Joint Degree In Association with 
