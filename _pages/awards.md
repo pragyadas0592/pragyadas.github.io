@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="right">
-  <img src="../images/Brown_logo.png" width="135" />
-  <img src="../images/logo_ANITI_2.jpeg" width="200" /> 
-</p>
 
 * Ranked #5 in Kaggle Half Earth Challenge *Herbarium* 2022
 * Contributed to Arctic Code Vault, GitHub 2020
