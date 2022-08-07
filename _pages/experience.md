@@ -25,12 +25,11 @@ redirect_from:
 ## Work
 
 * Reviewer NeurIPS 2021, CVPR 2022, ICML 2022, ECCV 2022
-* Masters Thesis (Feb 2019 - July 2019):
-  * ESIEE Paris
+* Masters Thesis at ESIEE Paris (Feb 2019 - July 2019):
   * Advisor: [Prof. Hugues Talbot](https://hugues-talbot.github.io)
   * Developed the first working prototype for a Dental AI startup [WeDiagnostiX](https://wediagnostix.com/en/home) for the classification / understanding of maxillary structures from X-ray imaging using Deep learning.
 * Summer Internship with Quelia Systems and ESIEE Paris (July 2018 - Aug 2018): 
-  * Advisor: Hugues Talbot
+  * Advisor: [Prof. Hugues Talbot](https://hugues-talbot.github.io)
   * Project: Tyre wear estimation using Computer Vision techniques (tread measurement)
 * Research Assistant in Ajman University, U.A.E.
 * Offshore working with Suspect Technologies, a startup by MIT Camera Culture Group member.
