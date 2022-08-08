@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohit Vaishnav"
+title                    : "Pragya Das"
 title_separator          : "-"
-name                     : &name "Mohit Vaishnav"
+name                     : &name "Pragya Das"
 description              : &description "PhD, Brown University, USA"
 url                      : https://vaishnavmohit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vaishnavmohit.github.io"
+repository               : "pragyadas0592.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vaishnavmohit"
+  github           : "pragyadas0592"
   google_plus      :
   keybase          :
   instagram        :
